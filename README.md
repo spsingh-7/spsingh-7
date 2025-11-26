@@ -4,7 +4,7 @@
 
 - 🎯 **Interested in:** Pre-SI Verification, RTL Development, and Hardware Design
 - 💼 **Experience:** 1.5+ years at NVIDIA PCIe Team
-- 🌱 **Currently learning:** Analog Circuit Design and Advanced Verification Methodologies
+- 🌱 **Currently learning:** Advanced Verification Methodologies and Hardware Design Techniques
 - 🤝 **Looking to collaborate on:** SystemVerilog/UVM projects, FPGA designs, and PCIe protocol implementations
 - 📫 **How to reach me:** [GitHub](https://github.com/spsingh-7)
 
@@ -19,7 +19,7 @@
 - Testbench development and code linting
 - PCIe protocol verification and BAR programming
 - Constraint-based verification
-- Digital and analog circuit design
+- Digital circuit design
 
 **Tools:**
 - Verdi (waveform debugging)
@@ -35,10 +35,9 @@
 
 ## 📚 Current Focus
 
-- Transitioning into analog design roles
 - Preparing for interviews at major tech companies
-- Exploring OpAmp design and impedance networks
 - Advanced verification techniques and methodologies
+- Hardware design and architecture optimization
 
 ---
 
