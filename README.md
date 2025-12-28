@@ -3,7 +3,7 @@
 ## 🔧 Design Verification Engineer
 
 - 🎯 **Interested in:** Pre-SI Verification, RTL Development, and Hardware Design
-- 💼 **Experience:** 1.5 years at NVIDIA PCIe Team
+- 💼 **Experience:** ~1.5 years at NVIDIA PCIe Team
 - 🌱 **Currently learning:** Advanced Verification Methodologies and Hardware Design Techniques
 - 🤝 **Looking to collaborate on:** SystemVerilog/UVM projects, FPGA designs, and PCIe protocol implementations
 - 📫 **How to reach me:** [GitHub](https://github.com/spsingh-7)
